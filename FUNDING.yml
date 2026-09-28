@@ -1,3 +1,5 @@
 # Sponsor button on every roundly-consulting repository without its own FUNDING.yml.
 patreon: roundly
-custom: ["https://donate.stripe.com/dRmeVe8FX5PF1Qd9pXcEw00"]
+custom:
+  - "https://donate.stripe.com/dRmeVe8FX5PF1Qd9pXcEw00"
+  - "https://roundly-consulting.com/support-us?utm_source=github&utm_medium=sponsor-button&utm_campaign=open-source#crypto"
