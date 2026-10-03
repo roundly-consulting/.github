@@ -76,46 +76,59 @@ Real prototypes across industries — what they solve, how they work, and what c
 
 ---
 
-## 🚀 Our products
+## 📦 Open source
 
-We don't just build for clients. We design, ship, and operate our own products — it keeps us honest about what works in production.
+We build products from reusable blocks — and we publish those blocks. **50+ Laravel packages, free and MIT-licensed**, the same code we run in client projects every day. Native, typed, and mostly zero third-party runtime dependencies.
 
-| Product | What it is | Link |
+| Area | Packages |
+|---|---|
+| **Auth & security** | [Auth](https://github.com/roundly-consulting/auth-for-laravel) · [Passkeys](https://github.com/roundly-consulting/passkeys-for-laravel) · [Two-Factor](https://github.com/roundly-consulting/two-factor-for-laravel) · [JWT](https://github.com/roundly-consulting/jwt-for-laravel) · [Refresh Tokens](https://github.com/roundly-consulting/refresh-tokens-for-laravel) · [Permissions](https://github.com/roundly-consulting/permissions-for-laravel) · [Crypto](https://github.com/roundly-consulting/crypto-for-laravel) · [Sentinel](https://github.com/roundly-consulting/sentinel-for-laravel) |
+| **Commerce** | [Money](https://github.com/roundly-consulting/money-for-laravel) · [Purchases](https://github.com/roundly-consulting/purchases-for-laravel) · [Shops](https://github.com/roundly-consulting/shops-for-laravel) · [Credits](https://github.com/roundly-consulting/credits-for-laravel) · [Coupons](https://github.com/roundly-consulting/coupons-for-laravel) · [Advertisements](https://github.com/roundly-consulting/advertisements-for-laravel) · [Trading Analytics](https://github.com/roundly-consulting/trading-analytics-for-laravel) |
+| **Content & media** | [Media Library](https://github.com/roundly-consulting/media-library-for-laravel) · [QR](https://github.com/roundly-consulting/qr-for-laravel) · [Posts](https://github.com/roundly-consulting/posts-for-laravel) · [Translatable](https://github.com/roundly-consulting/translatable-for-laravel) · [Sluggable](https://github.com/roundly-consulting/sluggable-for-laravel) |
+| **Social & engagement** | [Comments](https://github.com/roundly-consulting/comments-for-laravel) · [Messages](https://github.com/roundly-consulting/messages-for-laravel) · [Reviews](https://github.com/roundly-consulting/reviews-for-laravel) · [Likes](https://github.com/roundly-consulting/likes-for-laravel) · [Connections](https://github.com/roundly-consulting/connections-for-laravel) · [Contacts](https://github.com/roundly-consulting/contacts-for-laravel) · [Campaigns](https://github.com/roundly-consulting/campaigns-for-laravel) |
+| **Workflow & lifecycle** | [Forms](https://github.com/roundly-consulting/forms-for-laravel) · [Appointments](https://github.com/roundly-consulting/appointments-for-laravel) · [Opening Hours](https://github.com/roundly-consulting/opening-hours-for-laravel) · [Approvals](https://github.com/roundly-consulting/approvals-for-laravel) · [Requests](https://github.com/roundly-consulting/requests-for-laravel) · [Lifecycle](https://github.com/roundly-consulting/lifecycle-for-laravel) · [Teams](https://github.com/roundly-consulting/teams-for-laravel) · [Onboarding](https://github.com/roundly-consulting/onboarding-for-laravel) · [Reports](https://github.com/roundly-consulting/reports-for-laravel) |
+| **Data & modeling** | [Metrics](https://github.com/roundly-consulting/metrics-for-laravel) · [Query Builder](https://github.com/roundly-consulting/query-builder-for-laravel) · [Addresses](https://github.com/roundly-consulting/addresses-for-laravel) · [Attributes](https://github.com/roundly-consulting/attributes-for-laravel) · [Options](https://github.com/roundly-consulting/options-for-laravel) · [Enums](https://github.com/roundly-consulting/enums-for-laravel) |
+| **Infrastructure** | [Kubernetes API](https://github.com/roundly-consulting/kubernetes-api-for-laravel) · [Certificates](https://github.com/roundly-consulting/certificates-for-laravel) · [Git](https://github.com/roundly-consulting/git-for-laravel) · [Alerts](https://github.com/roundly-consulting/alerts-for-laravel) · [Geolocation](https://github.com/roundly-consulting/geolocation-for-laravel) · [Google Places](https://github.com/roundly-consulting/google-places-for-laravel) · [HTTP Client Rate Limits](https://github.com/roundly-consulting/http-client-rate-limits-for-laravel) · [Plausible](https://github.com/roundly-consulting/plausible-for-laravel) |
+| **Package tooling** | [Package Toolkit](https://github.com/roundly-consulting/package-toolkit-for-laravel) · [Testing](https://github.com/roundly-consulting/testing-for-laravel) |
+
+> **Building with an AI coding agent?** *Roundly for Laravel* gives your agent one registry of every package — install commands and docs included — so it reaches for tested code instead of writing it from scratch. [Read the registry docs →](https://roundly-consulting.com/open-source/docs/roundly-for-laravel?utm_source=github&utm_medium=org_profile&utm_campaign=readme_registry)
+
+➡️ **[Browse the package catalogue →](https://roundly-consulting.com/open-source?utm_source=github&utm_medium=org_profile&utm_campaign=readme_opensource)**
+
+---
+
+## 💛 Support our open-source work
+
+Publishing code is the easy part. Keeping it secure and current for years is the work your support pays for:
+
+- 🛡️ Security fixes and vulnerability patching
+- ⬆️ Framework upgrades — Laravel 12 & 13 support
+- ✅ Testing and CI infrastructure
+- 📖 Documentation in English and Slovak
+
+<div align="center">
+
+[![Join us on Patreon](https://img.shields.io/badge/Join%20us%20on%20Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/cw/roundly)
+[![Donate with Stripe](https://img.shields.io/badge/Donate%20with%20Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](https://donate.stripe.com/dRmeVe8FX5PF1Qd9pXcEw00)
+
+</div>
+
+**Patreon** membership has the most impact — recurring support lets us plan maintenance months ahead. **Stripe** takes a one-time donation, no account needed.
+
+<details>
+<summary><b>Donate in crypto</b> — BTC · ETH · BNB · SOL</summary>
+
+| Coin | Network | Address |
 |---|---|---|
-| **Proflow** | AI property management — documents, communication and workflows handled by AI, supervised by you. | [proflow.sk →](https://proflow.sk/?utm_source=github) |
-| **CloseSense** | AI sales-call analysis & coaching — transcribes and scores real calls, then coaches you on what moves deals forward. | *Live* |
-| **Bithrone** | White-label crypto wallet & transaction platform — fintech-grade security, launched under your brand. | [bithrone.com →](https://bithrone.com/?utm_source=github) |
-| **Scalava** | Zero-downtime Laravel deployments on Kubernetes — push to deploy, everything else automated. | *In progress* |
+| Bitcoin (BTC) | Bitcoin | `bc1qnax9v07qwss4d3d95tyl58w3yht6awuujk5y8g` |
+| Ethereum (ETH) · BNB | Ethereum (ERC-20) · BNB Smart Chain (BEP-20) | `0x4cC2864Bf91a530FA6e8939aC086192EFa0c659A` |
+| Solana (SOL) | Solana | `4AAjSTXBL7HZJXZFwFJknks2nQKu1gfU4hCqxe3B1qDb` |
 
-➡️ **[See all products →](https://roundly-consulting.com/products?utm_source=github&utm_medium=org_profile&utm_campaign=readme_products)**
+</details>
 
----
+**No budget? You can still help** — ⭐ star our repositories, report bugs, and recommend our packages to your team.
 
-## 🪐 Cosmos — your product, assembled from proven blocks
-
-Cosmos is the platform behind everything we build: independent blocks — sign-in, mail, AI assistant, learning engine — that snap together into a finished product. You skip months of groundwork and start where most projects end.
-
-> **Weeks, not months.** The foundation — accounts, security, e-mail, logging — is already built and battle-tested. We assemble and tailor; you launch sooner.
-
-`Knowledge engine` · `Authentication` · `Logging & audit` · `Geolocation` · `Mail accounts` · `Mail processing` · `AI assistant` · `Ticketing` · `CRM modules`
-
-➡️ **[Explore the Cosmos platform →](https://roundly-consulting.com/cosmos?utm_source=github&utm_medium=org_profile&utm_campaign=readme_cosmos)**
-
----
-
-## 💸 Pricing
-
-Every project is scoped individually. Tell us what you need — you'll have a tailored quote within **48 hours**. Fixed price and timeline, in writing.
-
-**Three ways to work with us:**
-
-- **Fixed scope** — defined deliverable, fixed quoted price, milestone billing.
-- **Retainer** — ongoing AI and automation development with monthly capacity and priority response.
-- **Consulting & analysis** — workflow analysis, audits, and architecture sessions, billed per session or day.
-
-**You own everything.** Full source code, documentation, and intellectual property are handed over — no lock-in.
-
-➡️ **[See pricing & get a quote →](https://roundly-consulting.com/pricing?utm_source=github&utm_medium=org_profile&utm_campaign=readme_pricing)**
+➡️ **[All the ways to support us →](https://roundly-consulting.com/support-us?utm_source=github&utm_medium=org_profile&utm_campaign=readme_support)**
 
 ---
 
@@ -133,6 +146,32 @@ Every project is scoped individually. Tell us what you need — you'll have a ta
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+---
+
+## 🤝 Affiliate program — refer a client, earn up to 12%
+
+Know a company that needs AI or custom software? Introduce them. Once the project is delivered and paid, you earn a commission — and your rate grows with every finished project.
+
+<div align="center">
+
+| Starter | Growth | Strategic | Executive |
+|:---:|:---:|:---:|:---:|
+| **5%** | **7%** | **9%** | **12%** |
+| 1–2 projects | 3–5 projects | 6–9 projects | 10+ projects |
+
+</div>
+
+Tiers are permanent — you never drop back down.
+
+1. **Introduce** — a warm email or the form, straight to a decision-maker.
+2. **We scope** — a tailored quote within 48 hours.
+3. **We deliver** — no involvement needed on your side.
+4. **You get paid** — within 14 days of the final invoice being paid.
+
+You earn on every project the client signs within **12 months** of your introduction. Built for consultants & advisors, agencies & studios, IT companies, and founders & operators. Cold lists and companies already talking to us don't count.
+
+➡️ **[Become a partner →](https://roundly-consulting.com/affiliate-program?utm_source=github&utm_medium=org_profile&utm_campaign=readme_affiliate)**
 
 ---
 
