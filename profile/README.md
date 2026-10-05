@@ -120,9 +120,9 @@ Publishing code is the easy part. Keeping it secure and current for years is the
 
 | Coin | Network | Address |
 |---|---|---|
-| Bitcoin (BTC) | Bitcoin | `bc1qnax9v07qwss4d3d95tyl58w3yht6awuujk5y8g` |
-| Ethereum (ETH) · BNB | Ethereum (ERC-20) · BNB Smart Chain (BEP-20) | `0x4cC2864Bf91a530FA6e8939aC086192EFa0c659A` |
-| Solana (SOL) | Solana | `4AAjSTXBL7HZJXZFwFJknks2nQKu1gfU4hCqxe3B1qDb` |
+| Bitcoin (BTC) | Bitcoin | `bc1q33t75v59uya9vlfsaxyycxc4vljs2qj9xvtqd9` |
+| Ethereum (ETH) · BNB | Ethereum (ERC-20) · BNB Smart Chain (BEP-20) | `0xaeC0de72DD58a5dE8F8200801F656409A0A0fadb` |
+| Solana (SOL) | Solana | `FeXZZjPJJ8wESnsCkmkU2r1sYWQjwYvrUcb5HJ9Hgf3F` |
 
 </details>
 
