@@ -1,6 +1,6 @@
 <!-- Cover — click to visit roundly-consulting.com -->
 <a href="https://roundly-consulting.com/?utm_source=github&utm_medium=org_profile&utm_campaign=readme_cover">
-  <img src="./assets/cover.png" alt="Roundly — We build custom AI systems that actually work. Visit roundly-consulting.com" width="100%">
+  <img src="https://raw.githubusercontent.com/roundly-consulting/.github/main/profile/assets/cover.png" alt="Roundly — We build custom AI systems that actually work. Visit roundly-consulting.com" width="100%">
 </a>
 
 <div align="center">
